@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "ad07"
+categories: ad
+published: true
+id: ad
+status: open
+target_link: http://pencilcasestudios.github.com/grapevine
+advertiser_image: http://grapevine.site/images/07.png
+advertiser_image_text: Grapevine
+advertiser_body_copy: Learn how!
+---
