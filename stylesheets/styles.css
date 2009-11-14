@@ -2,28 +2,79 @@
 It's OK to love styling this much!
 */
 
+
+/* Reset
+Exerpt from:
+http://meyerweb.com/eric/tools/css/reset/
+v1.0 | 20080212
+p
+h2,
+h3,
+h4,
+h5{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+*/
+
 body {
-	padding-left: 50px;
+	border: 0;
+	padding: 0;
+	margin: 0;
 	font-family: Helvetica;
 	font-size: medium;
 	color: #666666;
-	width: 290px;
+	line-height: 1.5em;
 }
 
 h1 {
 	color: #333333;
+	font-size: 4em;
+	margin-left: 20px;
 }
 
 a {
 	text-decoration: none;
+	color: #008400;
 }
 
 a.hover {
 	text-decoration: underline;
 }
 
+.leader {
+	font-size: 1.3em;
+}
+
+.panel {
+	border: 1px solid #ffffff;
+	float: left;
+	width: 220px;
+	padding: 10px;
+}
+
+.content {
+	border: 1px solid #ffffff;
+	padding: 10px;
+}
+
+#page {
+	border: 1px solid #ffffff;
+	padding: 0;
+	margin: 0 auto;
+	width: 968px;
+}
+
 #footer {
+	clear: both;
+	text-align: center;
 	padding-top: 100px;
+	padding-top: 50px;
 	font-size: small;
 	color: #cccccc;
 }
