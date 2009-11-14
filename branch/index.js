@@ -21,8 +21,8 @@ if (month < 10) {
 	month = '0' + month;
 }
 
-// var base_url = 'http://pencilcasestudios.github.com/grapevine';
-var base_url = 'http://grapevine.site';
+var base_url = 'http://pencilcasestudios.github.com/grapevine';
+// var base_url = 'http://grapevine.site';
 
 var advertisement_link = base_url + '/ad/' + year + '/' + month + '/' + day + '/ad' + advertisement_index + '/';
 var script = '<script type="text/javascript" src="' + advertisement_link + '"></script>\n';
