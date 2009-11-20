@@ -10,21 +10,25 @@
 		<meta name="keywords" content="{{ page.keywords }}" />
 		<meta name="author" content="Pencil Case Studios" />
 
+		<link href="stylesheets/reset.css" media="screen" rel="stylesheet" type="text/css" />
 		<link href="stylesheets/styles.css" media="screen" rel="stylesheet" type="text/css" />
 		<!-- <link rel="shortcut icon" href="favicon.ico" /> -->
-
 	</head>
 
 	<body id="{{ page.id }}">
 		<div id="page">
 			<div id="header">
+				<div id="grapevine_pane"><script type="text/javascript" src="http://pencilcasestudios.github.com/grapevine/branch/G/"></script></div>
 				<h1>Grapevine</h1>
+				<br class="clear" />
 			</div>
 			
-			{{ content }}
+			<div id="content">
+				{{ content }}
+			</div>
 			
 			<div id="footer">
-				Copyright &copy; 2007 - 2009 <a href="/">Pencil Case Studios</a>.
+				Copyright &copy; 2009 <a href="/">Pencil Case Studios</a>.
 				All rights reserved.<br />
 				<!-- Hosted by <a href="http://github.com">GitHub</a>.
 				Powered by <a href="http://www.jekyllrb.com/">Jekyll</a>.<br />
