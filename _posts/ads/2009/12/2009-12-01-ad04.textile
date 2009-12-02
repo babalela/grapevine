@@ -6,7 +6,7 @@ published: true
 id: ad
 status: open
 target_link: http://pencilcasestudios.github.com/grapevine
-advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2009/12/merry_christmas.04.jpg
+advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2009/12/merry_christmas.04.png
 advertiser_image_text: Grapevine
 advertiser_body_copy: <strong>Your</strong> advertisement here. <a href="http://pencilcasestudios.github.com/grapevine">Learn how</a>.
 ---
