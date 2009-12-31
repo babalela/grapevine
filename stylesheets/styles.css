@@ -2,26 +2,6 @@
 It's OK to love styling this much!
 */
 
-
-/* Reset
-Exerpt from:
-http://meyerweb.com/eric/tools/css/reset/
-v1.0 | 20080212
-p
-h2,
-h3,
-h4,
-h5{
-	margin: 0;
-	padding: 0;
-	border: 0;
-	outline: 0;
-	font-size: 100%;
-	vertical-align: baseline;
-	background: transparent;
-}
-*/
-
 body {
 	border: 0;
 	padding: 0;
@@ -33,7 +13,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: #94003f;
+	color: #333333;
 }
 
 h1 {
@@ -48,7 +28,8 @@ h2 {
 
 a {
 	text-decoration: none;
-	color: #94003f;
+	font-weight: bold;
+	color: #333333;
 }
 
 a.hover {
