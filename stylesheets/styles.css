@@ -79,6 +79,11 @@ p {
 	padding: 10px;
 }
 
+.separator {
+	border-bottom: 1px dotted #999999;
+	padding: 10px 0 10px 0;
+}
+
 #page {
 	border: 1px solid #ffffff;
 	padding: 0;
@@ -88,7 +93,6 @@ p {
 
 #header {
 	padding: 20px;
-	border-bottom: 1px dotted #999999;
 }
 
 #grapevine_pane {
@@ -101,6 +105,10 @@ p {
 
 #content {
 	clear: both;
+}
+
+#contact_form {
+	margin-left: 250px;
 }
 
 #footer {
