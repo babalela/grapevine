@@ -60,9 +60,34 @@ p {
 	padding: 10px;
 }
 
+.currency {
+	font-variant: small-caps;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 0.9em;
+}
+
 .separator {
 	border-bottom: 1px dotted #999999;
 	padding: 10px 0 10px 0;
+}
+
+.advertisers,
+.members {
+}
+
+.advertisers a,
+.members a {
+	font-size: 0.78em;
+	font-weight: normal;
+	line-height: 1.3em;
+	display: block;
+	padding-bottom: 0.3em;
+	color: #999999;
+}
+
+.advertisers a:hover,
+.members a:hover {
+	color: #333333;
 }
 
 #page {
