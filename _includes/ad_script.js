@@ -49,8 +49,9 @@ function generateEmbedScript() {
 	var month = zeroPaddedValue(date.getMonth() + 1);
 	var day = zeroPaddedValue(date.getDate());
 	
-	//var baseUrl = 'http://pencilcasestudios.github.com/grapevine';
-	var baseUrl = 'http://grapevine.site';
+	var baseUrl = 'http://pencilcasestudios.github.com/grapevine';
+	//var baseUrl = 'http://grapevine.site';
+	
 	var link = baseUrl + '/ad/' + year + '/' + month + '/' + day + '/' + 'ad' + advertisementIndex + '/';
 	var script = '<script type="text/javascript" src="' + link + '"\>\</script\>\n';
 
