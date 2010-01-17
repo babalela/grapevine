@@ -6,7 +6,7 @@ published: true
 id: ad
 status: open
 target_link: http://pencilcasestudios.github.com/grapevine
-advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2010/January/10/ad03.png
+advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2010/January/17/ad03.png
 advertiser_image_text: Go Zambia! Make us proud at the 2010 Africa Cup of Nations.
 advertiser_body_copy: <strong>Your</strong> advertisement here. <a href="http://pencilcasestudios.github.com/grapevine">Learn how</a>.
 ---
