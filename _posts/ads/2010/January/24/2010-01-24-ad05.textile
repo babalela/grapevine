@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "05"
+categories: ad
+published: true
+id: ad
+status: open
+target_link: http://pencilcasestudios.github.com/grapevine
+advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2010/January/24/ad01.png
+advertiser_image_text: The 2010 Africa Cup of Nations.
+advertiser_body_copy: <strong>Your</strong> advertisement here. <a href="http://pencilcasestudios.github.com/grapevine">Learn how</a>.
+---
