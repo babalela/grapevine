@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "05"
+categories: ad
+published: true
+id: ad
+status: open
+target_link: http://pencilcasestudios.github.com/grapevine
+advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2010/January/31/ad01.png
+advertiser_image_text: Colour or text?
+advertiser_body_copy: Colour or text? <strong>Your</strong> advertisement here. <a href="http://pencilcasestudios.github.com/grapevine">Learn how</a>.
+---
