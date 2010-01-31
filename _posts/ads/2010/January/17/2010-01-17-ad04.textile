@@ -3,7 +3,7 @@ layout: ad
 title: "04"
 categories: ad
 published: true
-id: ad
+xhtml_id: ad
 status: open
 target_link: http://pencilcasestudios.github.com/grapevine
 advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2010/January/17/04.png
