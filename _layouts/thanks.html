@@ -16,6 +16,9 @@
 	</head>
 
 	<body id="{{ page.xhtml_id }}">
+
+		{% include google_analytics.html %}
+
 		<div id="page">
 			<div id="header">
 				<div id="grapevine_pane"><script type="text/javascript" src="http://babalela.github.com/grapevine/branch/G/"></script></div>
@@ -30,10 +33,7 @@
 			
 			<br class="clear" />
 			
-			<div id="footer">
-				Copyright &copy; 2009 - {{ site.time | date: "%Y" }} <a href="/">{{ site.organisation_name }}</a>.
-				All rights reserved.<br />
-			</div>
+			{% include footer.html %}
 		</div>
 	</body>
 </html>
