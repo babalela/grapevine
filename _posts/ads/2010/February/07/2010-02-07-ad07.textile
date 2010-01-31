@@ -6,7 +6,7 @@ published: true
 id: ad
 status: open
 target_link: http://pencilcasestudios.github.com/grapevine
-advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2010/February/07/ad03.png
+advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2010/February/07/03.png
 advertiser_image_text: Psst! Get her a pair of earrings.
 advertiser_body_copy: Psst! Get her a pair of earrings. <strong>Your</strong> advertisement here. <a href="http://pencilcasestudios.github.com/grapevine">Learn how</a>.
 ---
