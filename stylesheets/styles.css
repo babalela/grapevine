@@ -1,0 +1,132 @@
+/*
+It's OK to love styling this much!
+*/
+
+body {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-size: medium;
+	color: #666666;
+	line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #333333;
+}
+
+h1 {
+	font-size: 4em;
+	line-height: 1em;
+}
+
+h2 {
+	font-size: 2em;
+	line-height: 1em;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #333333;
+}
+
+a.hover {
+	text-decoration: underline;
+}
+
+p {
+	padding-bottom: 1em;
+}
+
+.clear {
+	clear: both;
+}
+
+.leader {
+	font-size: 1.3em;
+}
+
+.panel {
+	border: 1px solid #ffffff;
+	float: left;
+	width: 220px;
+	padding: 10px;
+}
+
+.content {
+	border: 1px solid #ffffff;
+	padding: 10px;
+}
+
+.currency {
+	font-variant: small-caps;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 0.9em;
+}
+
+.separator {
+	border-bottom: 1px dotted #999999;
+	padding: 10px 0 10px 0;
+}
+
+.advertisers,
+.members {
+}
+
+.advertisers a,
+.members a {
+	font-size: 0.78em;
+	font-weight: normal;
+	line-height: 1.3em;
+	display: block;
+	padding-bottom: 0.3em;
+	color: #999999;
+}
+
+.advertisers a:hover,
+.members a:hover {
+	color: #333333;
+}
+
+#page {
+	border: 1px solid #ffffff;
+	padding: 0;
+	margin: 0 auto;
+	width: 968px;
+}
+
+#header {
+	padding: 20px;
+}
+
+#grapevine_pane {
+	float: right;
+}
+
+.grapevine_text {
+	font-size: smaller;
+}
+
+#content {
+	clear: both;
+}
+
+#contact_form {
+	float: left;
+}
+
+#footer {
+	clear: both;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: small;
+	color: #cccccc;
+}
+
+#footer a {
+	font-weight: bold;
+	color: #cccccc;
+}

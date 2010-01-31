@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "06"
+categories: ad
+published: true
+xhtml_id: ad
+status: open
+target_link: http://babalela.github.com/grapevine
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/February/07/02.png
+advertiser_image_text: Psst! Get her a pair of earrings.
+advertiser_body_copy: Psst! Get her a pair of earrings. <strong>Your</strong> advertisement here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+---
