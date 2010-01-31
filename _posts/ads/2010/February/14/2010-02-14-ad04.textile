@@ -5,8 +5,8 @@ categories: ad
 published: true
 xhtml_id: ad
 status: open
-target_link: http://pencilcasestudios.github.com/grapevine
-advertiser_image: http://pencilcasestudios.github.com/grapevine/images/ads/2010/February/14/04.png
+target_link: http://babalela.github.com/grapevine
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/February/14/04.png
 advertiser_image_text: Thank him with a gift you can enjoy too.
-advertiser_body_copy: Thank him with a gift <strong>you</strong> can enjoy too. <strong>Your</strong> advertisement here. <a href="http://pencilcasestudios.github.com/grapevine">Learn how</a>.
+advertiser_body_copy: Thank him with a gift <strong>you</strong> can enjoy too. <strong>Your</strong> advertisement here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
 ---
