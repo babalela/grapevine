@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "02"
+categories: ad
+published: true
+xhtml_id: ad
+status: open
+target_link: http://babalela.github.com/grapevine
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/February/21/02.png
+advertiser_image_text: Happily ever after in Lusaka, Zambia.
+advertiser_body_copy: Happily ever after in Lusaka, Zambia. <strong>Your</strong> advertisement here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+---
