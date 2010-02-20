@@ -1,0 +1,17 @@
+---
+layout: list
+title: "~ a Zambian advertising platform"
+xhtml_id: list
+keywords: online, advertising, network, grapevine
+description: Ad online advertising network.
+---
+
+<h2>Now</h2>
+
+{% for post in site.posts limit: 7 %}
+<div class="ad">
+	<!-- <a href="{{ post.url }}">{{ post.title }}</a> -->
+	<img src="{{ post.advertiser_image }}" alt="{{ post.advertiser_image_text }}" title="{{ post.advertiser_image_text }}" />
+	{{ post.advertiser_body_copy }}
+</div>
+{% endfor %}

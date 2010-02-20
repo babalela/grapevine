@@ -6,7 +6,7 @@ published: true
 xhtml_id: ad
 status: open
 target_link: http://babalela.github.com/grapevine
-advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/January/17/02.png
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/January/17/06.png
 advertiser_image_text: Go Zambia! Make us proud at the 2010 Africa Cup of Nations.
 advertiser_body_copy: <strong>Your</strong> advertisement here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
 ---

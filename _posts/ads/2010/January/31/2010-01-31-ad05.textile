@@ -6,7 +6,7 @@ published: true
 xhtml_id: ad
 status: open
 target_link: http://babalela.github.com/grapevine
-advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/January/31/01.png
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/January/31/05.png
 advertiser_image_text: Colour or text?
 advertiser_body_copy: Colour or text? <strong>Your</strong> advertisement here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
 ---
