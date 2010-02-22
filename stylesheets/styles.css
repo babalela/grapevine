@@ -49,6 +49,14 @@ p {
 	line-height: 1.3em;
 }
 
+.ad p.date{
+	color: #dddddd;
+	text-align: right;
+	padding: 0;
+	line-height: 1em;
+	padding-bottom: 0;
+}
+
 .clear {
 	clear: both;
 }
@@ -116,10 +124,12 @@ p {
 
 #grapevine_pane {
 	float: right;
+	width: 160px;
 }
 
 .grapevine_text {
-	font-size: smaller;
+	font-size: 0.70em;
+	line-height: 1.3em;
 }
 
 #content {
