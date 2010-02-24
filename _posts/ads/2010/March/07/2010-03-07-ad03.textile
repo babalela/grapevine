@@ -8,5 +8,5 @@ status: open
 target_link: http://babalela.github.com/grapevine
 advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/March/07/03.png
 advertiser_image_text: Today, tomorrow, Toyota.
-advertiser_body_copy: Bright future? Advertise here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+advertiser_body_copy: Potholes beware.<br /> Advertise here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
 ---
