@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "05"
+categories: ad
+published: true
+xhtml_id: ad
+status: open
+target_link: http://babalela.github.com/grapevine
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/March/14/05.png
+advertiser_image_text: Look what love can do.
+advertiser_body_copy: Smartphones you'll love.<br /> Your ad here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+---
