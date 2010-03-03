@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "01"
+categories: ad
+published: true
+xhtml_id: ad
+status: open
+target_link: http://babalela.github.com/grapevine
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/March/28/01.png
+advertiser_image_text: Only in Zambia. The REAL Africa.
+advertiser_body_copy: From Zambia with &hearts;.<br /> Your ad here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+---
