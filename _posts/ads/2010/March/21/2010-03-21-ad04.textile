@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "04"
+categories: ad
+published: true
+xhtml_id: ad
+status: open
+target_link: http://babalela.github.com/grapevine
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/March/21/04.png
+advertiser_image_text: The iPod Nano. From Apple.
+advertiser_body_copy: Music, radio and video right where you are.<br /> Your ad here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+---
