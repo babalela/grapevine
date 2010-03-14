@@ -8,5 +8,5 @@ status: open
 target_link: http://babalela.github.com/grapevine
 advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/March/14/06.png
 advertiser_image_text: Look what love can do.
-advertiser_body_copy: Smartphones you'll love.<br /> Your ad here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+advertiser_body_copy: Get a smartphone you will love.<br /> Your ad here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
 ---
