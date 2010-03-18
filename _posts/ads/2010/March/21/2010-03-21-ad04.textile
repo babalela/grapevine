@@ -3,7 +3,6 @@ layout: ad
 title: "04"
 categories: ad
 published: true
-published: false
 xhtml_id: ad
 status: open
 target_link: http://babalela.github.com/grapevine
