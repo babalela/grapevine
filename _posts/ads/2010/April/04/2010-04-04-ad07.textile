@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "07"
+categories: ad
+published: true
+xhtml_id: ad
+status: open
+target_link: http://babalela.github.com/grapevine
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/April/04/07.png
+advertiser_image_text: Visiting Zambia? You'll definitely need one of these.
+advertiser_body_copy: Run out and capture today.<br /> Your ad here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+---
