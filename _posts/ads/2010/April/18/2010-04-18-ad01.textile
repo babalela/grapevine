@@ -1,0 +1,12 @@
+---
+layout: ad
+title: "01"
+categories: ad
+published: true
+xhtml_id: ad
+status: open
+target_link: http://babalela.github.com/grapevine
+advertiser_image: http://babalela.github.com/grapevine/images/ads/2010/April/18/01.png
+advertiser_image_text: Big is back.
+advertiser_body_copy: The Extra Large Nintendo Dual Screen. Now available.<br /> Your ad here. <a href="http://babalela.github.com/grapevine">Learn how</a>.
+---
